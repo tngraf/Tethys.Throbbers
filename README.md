@@ -4,7 +4,7 @@ Tethys.Throbbers
 Custom throbber controls for WPF.
 
 ## Project Build Status ##
-[![Build status](https://ci.appveyor.com/api/projects/status/jw8vlyrkk3asftt0?svg=true)](https://ci.appveyor.com/project/tngraf/tethys-silverlight-controls-wpf)
+[![Build status](https://ci.appveyor.com/api/projects/status/y1i6ni8661y51unb?svg=true)](https://ci.appveyor.com/project/tngraf/tethys-throbbers)
 
 ## Solution Overview ##
 
@@ -13,19 +13,19 @@ Custom throbber controls for WPF.
 
 ### Controls ###
 
-* `BallThrobber`, a progress control in form of rotating small balls.
+* `BallThrobber`, a progress control in form of rotating small balls:
   ![](https://github.com/tngraf/Tethys.Throbbers/blob/master/doc/BallThrobber.jpg)
 
-* `CircularGaugeControl`, a progress control in form of two rotating circles.
+* `CircularGaugeControl`, a progress control in form of two rotating circles:
   ![](https://github.com/tngraf/Tethys.Throbbers/blob/master/doc/CircularThrobber.jpg)
 
-* `CubeThrobber`, a progress control in form of 4 rotating cubes.
+* `CubeThrobber`, a progress control in form of 4 rotating cubes:
   ![](https://github.com/tngraf/Tethys.Throbbers/blob/master/doc/CubeThrobber.jpg)
 
-  * `LineThrobber`, a progress control in form of rotating lines.
+* `LineThrobber`, a progress control in form of rotating lines:
   ![](https://github.com/tngraf/Tethys.Throbbers/blob/master/doc/LineThrobber.jpg)
 
-  * `RingThrobber`, a progress control in form of a rotating ring.
+* `RingThrobber`, a progress control in form of a rotating ring:
   ![](https://github.com/tngraf/Tethys.Throbbers/blob/master/doc/RingThrobber.jpg)
 
 
