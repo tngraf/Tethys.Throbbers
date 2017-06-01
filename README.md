@@ -5,6 +5,7 @@ Custom throbber controls for WPF.
 
 ## Project Build Status ##
 [![Build status](https://ci.appveyor.com/api/projects/status/y1i6ni8661y51unb?svg=true)](https://ci.appveyor.com/project/tngraf/tethys-throbbers)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
 
 ## Solution Overview ##
 
